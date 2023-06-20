@@ -1,4 +1,3 @@
-
 create table netology.ORDERS
 (
     id           SERIAL PRIMARY KEY,

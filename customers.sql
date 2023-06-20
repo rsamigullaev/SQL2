@@ -1,4 +1,5 @@
 create schema netology;
+
 create table netology.customers
 (
     id           SERIAL PRIMARY KEY,
