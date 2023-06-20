@@ -1,3 +1,4 @@
+
 create schema netology;
 
 create table netology.customers
